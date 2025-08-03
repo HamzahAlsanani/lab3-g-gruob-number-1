@@ -1,1 +1,3 @@
-# lab3-g-gruob-number-1
+hamzah alsanani 
+IT
+groub 3
