@@ -1,0 +1,9 @@
+<html>
+  <head>
+	<title>السيره الذاتيه <title/>
+  <head/>
+   <body>
+	<h1>hamzah alsanany <h1/>
+	<p> IT groub 3 <p/>
+   <body/>	
+<html/>
